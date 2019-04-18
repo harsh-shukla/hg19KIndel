@@ -54,5 +54,5 @@ In review ; will update as soon as it is comes online
 
 ## Contact
 
-For any quires I can be reached at : *harsh.g.shukla@gmail.com*
+For any queries I can be reached at : *harsh.g.shukla@gmail.com*
 
