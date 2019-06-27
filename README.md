@@ -50,7 +50,7 @@ Other auxiliary dataset is available at : [hg19Kindel_Resource](https://doi.org/
 
 ## Reference
 
-In review ; will update as soon as it is comes online
+Shukla, H.G., Bawa, P.S. and Srinivasan, S., 2019. hg19KIndel: ethnicity normalized human reference genome. BMC genomics, 20(1), p.459.
 
 ## Contact
 
